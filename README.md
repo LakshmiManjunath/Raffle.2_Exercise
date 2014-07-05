@@ -1,6 +1,6 @@
 Live URL:
-Description: This file is a simple example of usage of Arrays!
+Description: Demonstrates simple usage of Arrays!
 
-In Version1-Raffle --> In a pre-defined arrays of players, winners and loosers are chosen using the php
-                       built-in function rand(). Depending upon the number of winners the page displays
-                       appropriate messages!!
+In Version2-Raffle --> The page accepts 4 user inputs and decides the Raffel winner ased on a preset winning number.
+                       Missing any input value, would throw a invalid input. The form retrieves the input values even 
+                       after submitting the form.
